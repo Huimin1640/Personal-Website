@@ -126,7 +126,7 @@
 }
 
 a { text-decoration: none;
-  overflow-wrap: break-word; }
+  text-overflow: ellipsis; }
 
 li { list-style: none; }
 
