@@ -112,8 +112,27 @@
 }
 
 
+/*-----------------------------------*\
+  #Footer
+\*-----------------------------------*/
 
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
 
+.site-footer, footer a.back-to-top i {
+  color: hsl(0,0%,100%);
+}
+
+footer {
+  margin: 4rem 0 0;
+  padding: 2rem 0;
+  width: 100%;
+}
 
 /*-----------------------------------*\
   #RESET
@@ -131,7 +150,7 @@ a { text-decoration: none;
 
 li { list-style: none; }
 
-img, ion-icon, button, time, span { display: block; }
+img, ion-icon, button, time, footer, span { display: block; }
 
 button {
   font: inherit;
@@ -307,8 +326,6 @@ main {
   margin-bottom: 75px;
   min-width: 259px;
 }
-
-
 
 
 
