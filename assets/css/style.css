@@ -150,7 +150,7 @@ a { text-decoration: none;
 
 li { list-style: none; }
 
-img, ion-icon, button, time, footer, span { display: block; }
+img, ion-icon, button, time, span { display: block; }
 
 button {
   font: inherit;
